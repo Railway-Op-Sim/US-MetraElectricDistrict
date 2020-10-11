@@ -6,7 +6,7 @@ This map provides a representation of the Metra Electric District network run by
 * Blue Island Branch: Millenium Station to Blue Island
 * South Chicago Branch: Millenium Station to South Chicago
 
-The route will likely be released in stages to ensure there is a timetable available as early on as possible
+Currently stage one is complete depicting the map as far as Grand Crossing on the Main Line and up to South Chicago/93rd St. The timetable for this stage is now in development, once this is complete the route will be expanded followed by the timetable to stage two.
 
 ![Image of Current State of Map](Images/Metra_Electric.bmp)
 
