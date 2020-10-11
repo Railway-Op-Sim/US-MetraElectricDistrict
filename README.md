@@ -10,7 +10,7 @@ Currently stage one is complete depicting the map as far as Grand Crossing on th
 
 ![Image of Current State of Map](Images/Metra_Electric.bmp)
 
-## Current Status
+## Current Status (Stage One: Millenium Station to South Chicago/93rd St.)
 
 | Stage         | Status        |
 | ------------- |:-------------:|
