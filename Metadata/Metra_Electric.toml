@@ -1,0 +1,14 @@
+rly_file = "Metra_Electric.rly"
+ttb_files = [ "Weekday_2020_MetraElectric_5am.ttb",]
+ssn_files = [ "Metra_Electric_Weekday_2020_MetraElectric_5am.ssn",]
+img_files = [ "Metra_Electric.bmp",]
+doc_files = [ "README.md",]
+release_date = "2022-02-23"
+version = "1.0.0"
+country_code = "US"
+factual = true
+description = ""
+display_name = "Metraelectricdistrict"
+name = "Metraelectricdistrict"
+author = "Kristian Zarębski"
+contributors = []
