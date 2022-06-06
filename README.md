@@ -6,7 +6,7 @@ This map provides a representation of the Metra Electric District network run by
 * Blue Island Branch: Millenium Station to Blue Island
 * South Chicago Branch: Millenium Station to South Chicago
 
-Currently stage one is complete depicting the map as far as Grand Crossing on the Main Line and up to South Chicago/93rd St. The timetable for this stage is now in development, once this is complete the route will be expanded followed by the timetable to stage two.
+This is version 2 which now includes both the Main Line and the South Chicago Branch.
 
 ![Image of Current State of Map](Images/Metra_Electric.bmp)
 
@@ -14,13 +14,13 @@ Currently stage one is complete depicting the map as far as Grand Crossing on th
 
 | Stage         | Status        |
 | ------------- |:-------------:|
-| Track Plan     | <img src="https://image.flaticon.com/icons/svg/1632/1632596.svg" height="24"> |
-| Signalling      | <img src="https://image.flaticon.com/icons/svg/1632/1632596.svg" height="24">      |
-| Naming | <img src="https://image.flaticon.com/icons/svg/1632/1632596.svg" height="24">      |
-| Speed Limits | <img src="https://image.flaticon.com/icons/svg/1632/1632596.svg" height="24"> |
-| Distances | <img src="https://image.flaticon.com/icons/svg/1632/1632596.svg" height="24"> |
-| Timetable | <img src="https://image.flaticon.com/icons/svg/1632/1632596.svg" height="24"> |
-| Documentation | <img src="https://image.flaticon.com/icons/svg/1632/1632596.svg" height="24"> |
+| Track Plan     | :heavy_check_mark: |
+| Signalling      | :x:      |
+| Naming | :heavy_check_mark:      |
+| Speed Limits | :x: |
+| Distances | :x: |
+| Timetable | :x: |
+| Documentation | :x: |
 
 
 ## Data Sources
