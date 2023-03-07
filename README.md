@@ -15,7 +15,7 @@ This is version 2 which now includes both the Main Line and the South Chicago Br
 | Stage         | Status        |
 | ------------- |:-------------:|
 | Track Plan     | :heavy_check_mark: |
-| Signalling      | :x:      |
+| Signalling      | :heavy_check_mark:      |
 | Naming | :heavy_check_mark:      |
 | Speed Limits | :x: |
 | Distances | :x: |
